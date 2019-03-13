@@ -1,0 +1,30 @@
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\bin\Debug\Graduate.exe.config
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\bin\Debug\Graduate.exe
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\bin\Debug\Graduate.pdb
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\MainWindow.g.cs
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\App.g.cs
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate_MarkupCompile.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate_MarkupCompile.lref
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\MainWindow.baml
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.g.resources
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.Properties.Resources.resources
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.csproj.GenerateResource.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.csproj.CoreCompileInputs.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.exe
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.pdb
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate\Graduate\obj\Debug\Graduate.csprojAssemblyReference.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\bin\Debug\Graduate.exe.config
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\bin\Debug\Graduate.exe
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\bin\Debug\Graduate.pdb
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.csprojAssemblyReference.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\MainWindow.g.cs
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\App.g.cs
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate_MarkupCompile.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate_MarkupCompile.lref
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\MainWindow.baml
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.g.resources
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.Properties.Resources.resources
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.csproj.GenerateResource.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.csproj.CoreCompileInputs.cache
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.exe
+C:\Users\FlyingSky\Desktop\hackhuman-Csharpclient-master\Csharpclient\Graduate - 副本\Graduate\obj\Debug\Graduate.pdb
